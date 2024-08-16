@@ -1,8 +1,8 @@
 # neurips-workshops-2024
-| Neurips Workshops 2024                                                                                                                   | Unnamed: 1                       |
+| WORKSHOP TITLE                                                                                                                           | Deadline for submission          |
 |:-----------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
-|                                                                                                                                      |                               |
-| Workshop Title                                                                                                                           | Workshop Deadline                |
+|                                                                                                                                          |                                  |
+|                                                                                                                                          |                                  |
 | Intrinsically Motivated Open-ended Learning (IMOL)                                                                                       | September 11, 2024 AOE           |
 | ML with New Compute Paradigms                                                                                                            | September 9, 2024 AOE            |
 | Federated Foundation Models                                                                                                              | August 30, 2024 AOE              |
